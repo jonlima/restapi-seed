@@ -1,7 +1,17 @@
 {
-  "name": "bellus",
-  "description": "Sistema beleza",
+  "name": "restApi-seed",
+  "description": "Initial Skeleton restful API",
   "version": "0.0.1",
+  "author": "Jonatha Lima <jonatha.lima14@gmail.com>",
+  "contributors": {
+    "name": "Mayara Rysia",
+    "email": "mayara.ryzia@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonlima/restapi-seed"
+  },
   "dependencies": {
     "body-parser": "^1.14.1",
     "cors": "^2.7.1",
