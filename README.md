@@ -1,5 +1,4 @@
 # **restApi-seed**
-=====================
 
 It is the skeleton for projects _[REST API](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)_.
 
