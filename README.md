@@ -16,7 +16,7 @@ It is the skeleton for projects _[REST API](http://roy.gbiv.com/untangled/2008/r
 
 ## **Requirement**
 
-* Have  [Node.js](https://nodejs.org/en/)  installed on the machine.
+* [Node.js](https://nodejs.org/en/)  installed on the machine.
 
 ## **How to Use**
 
